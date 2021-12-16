@@ -17,9 +17,9 @@ td {
     background: #7a5000;
 }
 
-tr:last-child td:first-child {
+.empty {
     border-left: none;
-    border-bottom: none;
+    border-top: none;
 }
 
 .whiteFigure {
